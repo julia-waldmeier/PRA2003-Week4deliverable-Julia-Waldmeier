@@ -1,0 +1,5 @@
+# Raw data files - too large for GitHub, available from course surfdrive
+output-Set*.txt
+
+# macOS
+.DS_Store
